@@ -1,0 +1,79 @@
+/*   {
+    
+    color: rgb(114, 6, 6);
+    text-align: center;
+}
+.meme tagline{
+    color: rgb(56, 6, 14);
+    font-style: italic;
+    
+}
+.meme{
+    text-align: center;
+}
+html, body {
+  max-height:fit-content;
+  max-width: fit-content;
+  margin: 0;
+  padding: 0;
+  background-image: url("Black White Simple Blank Resignation Letter.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; /* Optional: makes the background stay fixed when scrolling 
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(220, 193, 193); /* red background on the outer sides 
+  display: flex;
+  justify-content: center; /* center the content */
+* {
+  color: rgb(114, 6, 6);
+  text-align: center;
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  /*height: 100%;
+  width: 100%;*/
+  background-color: rgb(220, 193, 193); /* reddish background on outer sides */
+ /*display: flex;
+  justify-content: center;
+  align-items: center;*/
+}
+
+/* Main content wrapper with the ribbon background */
+.lura {
+  background-image: url("Black White Simple Blank Resignation Letter.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%; ;
+  background-position: top center;
+  background-color: white;
+  width: 90vw;
+  max-width: 1000px;
+  max: height 1000px;;
+  margin:40px auto;
+  padding: 40px 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  
+}
+
+/* Optional mobile tweak */
+@media (max-width: 600px) {
+  .framed-content {
+    background-size: cover;
+    padding: 20px;
+  }
+}
+
+/* Optional: styling your tagline */
+.meme.tagline {
+  color: rgb(56, 6, 14);
+  font-style: italic;
+  text-align: center;
+}
+
+
